@@ -2,6 +2,6 @@
 
 A simple RPN calculator written in Haskell.
 
-Supports basic arithmetic operators on integers.
+Supports basic arithmetic operations on integers.
 
 Written mainly to practice using the State Monad.
